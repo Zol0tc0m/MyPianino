@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\ОАИП - работа\ОАИП - работа\obj\Debug\net6.0\ОАИП - работа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ОАИП - работа\ОАИП - работа\obj\Debug\net6.0\ОАИП - работа.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ОАИП - работа\ОАИП - работа\obj\Debug\net6.0\ОАИП - работа.AssemblyInfo.cs
+C:\Users\User\source\repos\ОАИП - работа\ОАИП - работа\obj\Debug\net6.0\ОАИП - работа.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ОАИП - работа\ОАИП - работа\bin\Debug\net6.0\ОАИП - работа.exe
+C:\Users\User\source\repos\ОАИП - работа\ОАИП - работа\bin\Debug\net6.0\ОАИП - работа.deps.json
+C:\Users\User\source\repos\ОАИП - работа\ОАИП - работа\bin\Debug\net6.0\ОАИП - работа.runtimeconfig.json
+C:\Users\User\source\repos\ОАИП - работа\ОАИП - работа\bin\Debug\net6.0\ОАИП - работа.dll
+C:\Users\User\source\repos\ОАИП - работа\ОАИП - работа\bin\Debug\net6.0\ОАИП - работа.pdb
+C:\Users\User\source\repos\ОАИП - работа\ОАИП - работа\obj\Debug\net6.0\ОАИП - работа.dll
+C:\Users\User\source\repos\ОАИП - работа\ОАИП - работа\obj\Debug\net6.0\refint\ОАИП - работа.dll
+C:\Users\User\source\repos\ОАИП - работа\ОАИП - работа\obj\Debug\net6.0\ОАИП - работа.pdb
+C:\Users\User\source\repos\ОАИП - работа\ОАИП - работа\obj\Debug\net6.0\ОАИП - работа.genruntimeconfig.cache
+C:\Users\User\source\repos\ОАИП - работа\ОАИП - работа\obj\Debug\net6.0\ref\ОАИП - работа.dll

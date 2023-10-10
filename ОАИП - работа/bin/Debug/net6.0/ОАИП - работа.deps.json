@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ОАИП - работа/1.0.0": {
+        "runtime": {
+          "ОАИП - работа.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ОАИП - работа/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
